@@ -9,7 +9,12 @@ class Listku:
        self.elemet=int(input("Masukkan element List nada anda: "))
 
     def iterasi(self):
+        # Use Spaces
             self.masukkanList=list(map(int,input("\nMasukkan List anda: ").strip().split(' ')))[:self.elemet]
+
+        # With Comma
+        #  self.masukkanList=list(map(int,input("\nMasukkan List anda: ").strip().split(',')))[:self.elemet]
+ 
 
     def output(self):
             print("\n List anda: ",self.masukkanList)
