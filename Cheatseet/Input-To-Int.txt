@@ -2,3 +2,4 @@ https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/
 https://www.tutorialspoint.com/python-get-a-list-as-input-from-user
 https://pynative.com/python-accept-list-input-from-user/
 https://www.geeksforgeeks.org/python-get-a-list-as-input-from-user/
+https://www.geeksforgeeks.org/python-pandas-dataframe-where/
